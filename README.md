@@ -49,7 +49,7 @@ Ele converte um número decimal em sua representação binária IEEE-754 de 32 b
 **1 - Clone o repositório:**
 
 ```http
-git clone https://github.com/Ricardo-Brand/IEEE-754.git
+git clone git@github.com:Ricardo-Brand/IEEE-754.git
 ```
 
 **2 - Entre na pasta:**
